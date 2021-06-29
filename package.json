@@ -1,9 +1,10 @@
 {
     "name": "slim-coffe",
-    "displayName": "slim coffe",
-    "description": "Estilo moderno para editar código de maneira suave, e sutil.",
-    "version": "0.0.1",
+    "displayName": "slim coffee",
+    "description": "Estilo moderno para editar código, com fundo escuro, cores fortes e fontes que permitem uma leitura suave, e contraste sutil e elegante.",
+    "version": "0.0.2",
     "publisher": "slim-coffe",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.49.0"
     },

@@ -19,7 +19,7 @@ Use livremente
 --------------------------------------------------------
 
 <h1>
-  Type Script
+  TypeScript
 </h1>
 
 ![image](https://user-images.githubusercontent.com/66885644/123741854-2484dd00-d881-11eb-86f4-45f391061eba.png)

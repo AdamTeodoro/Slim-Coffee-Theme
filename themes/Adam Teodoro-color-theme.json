@@ -1,6 +1,6 @@
 {
 	"name": "Adam Teodoro",
-	"type": "light",
+	"type": "dark",
 	"colors": {
 		"editor.background": "#202020",
 		"editor.foreground": "#996c6c",
@@ -35,7 +35,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#834646"
 			}
 		},
 		{
@@ -45,7 +45,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#834646"
 			}
 		},
 		{
@@ -200,7 +200,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#834646"
 			}
 		},
 		{
@@ -210,7 +210,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a02b2b"
+				"foreground": "#ce3636"
 			}
 		},
 		{

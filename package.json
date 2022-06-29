@@ -1,9 +1,9 @@
 {
-    "name": "slim-coffe",
-    "displayName": "slim coffee",
-    "description": "Estilo moderno para editar código, com fundo escuro, cores fortes e fontes que permitem uma leitura suave, e contraste sutil e elegante.",
-    "version": "0.0.2",
-    "publisher": "slim-coffe",
+    "name": "slim-coffee",
+    "displayName": "Slim coffee",
+    "description": "Style your code elegantly and smoothly using the slim-coffee theme, the theme with colors that resemble coffee. \n - Developed by Adam Teodoro: https://adamteodoro.web.app",
+    "version": "1.0.0",
+    "publisher": "slim-coffee",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.49.0"
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Adam Teodoro",
+                "label": "Slim coffee",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Adam Teodoro-color-theme.json"
             }

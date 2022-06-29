@@ -1,11 +1,11 @@
-Use livremente
+Use freely.
 
 <h1>JSON</h1>
 
 ![image](https://user-images.githubusercontent.com/66885644/123739920-dc17f000-d87d-11eb-909e-4dd57108c0ae.png)
 ---------------------------------------------------------
 <h1>
-      HTML E JAVASCRIPT
+  HTML E JAVASCRIPT
 </h1>
 
 ![image](https://user-images.githubusercontent.com/66885644/123740632-22ba1a00-d87f-11eb-9273-5593f50be07d.png)
